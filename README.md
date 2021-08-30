@@ -1,4 +1,4 @@
-###create twilio account and set
+###create twilio account and set in .env
 
 TWILIO_AUTH_SID=
 
